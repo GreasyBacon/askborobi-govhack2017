@@ -1,0 +1,5 @@
+# credentials for Amazon RDS instance
+db_hostname = "{INSERT YOUR HOSTNAME HERE}"
+db_username = "{INSERT YOUR USERNAME HERE}"
+db_password = "{INSERT YOUR PASSWORD HERE}"
+db_name = "{INSERT YOUR NAME HERE}"
